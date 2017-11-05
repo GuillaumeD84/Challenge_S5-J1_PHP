@@ -1,0 +1,43 @@
+body {
+  width: 900px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  background: url("../images/voitures.jpg") no-repeat right;
+}
+
+h1,
+h2 {
+  color: #006a53;
+}
+
+[type="text"] {
+  width: 40px;
+}
+
+img {
+  float: right;
+
+  margin-top: 30px;
+}
+
+.tarif4 {
+  color: blue;
+}
+
+.tarif3 {
+  color: green;
+}
+
+.tarif2 {
+  color: orange;
+}
+
+.tarif1 {
+  color: red;
+}
+
+.tarif0 {
+  color: gray;
+}
